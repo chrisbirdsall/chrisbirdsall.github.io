@@ -28,3 +28,9 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/chrisbirdsall/chrisbirdsall.github.io
+
+# Pages
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
