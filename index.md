@@ -2,4 +2,4 @@
 layout: page
 ---
 
-I am testing this
+I am a PhD candidate in the Department of 
