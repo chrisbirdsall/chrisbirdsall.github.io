@@ -32,5 +32,6 @@ github:
 # Pages
 pages_list:       
   About: '/about'
+  Blog: '/Blog'
   Archive: '/archive'
   Feed: '/atom.xml'
