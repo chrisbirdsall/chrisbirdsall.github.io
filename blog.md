@@ -1,3 +1,8 @@
+---
+layout: page
+title: Blog
+---
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
