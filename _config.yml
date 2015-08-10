@@ -30,7 +30,8 @@ github:
   repo:              https://github.com/chrisbirdsall/chrisbirdsall.github.io
 
 # Pages
-pages_list:       
+pages_list:
+  Publications: '/publications'       
   Blog: '/blog'
   Archive: '/archive'
   Feed: '/atom.xml'
