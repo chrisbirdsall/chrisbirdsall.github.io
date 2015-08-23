@@ -31,7 +31,6 @@ github:
 
 # Pages
 pages_list:
-  About: 'chrisbirdsall.github.io'
   Publications: '/publications'       
   Blog: '/blog'
   Archive: '/archive'
