@@ -32,8 +32,8 @@ github:
 # Pages
 pages_list:
   CV: 'cv.pdf'
-  Research: '/Research'
-  Teaching: '/Teaching'       
+  Research: '/research'
+  Teaching: '/teaching'       
   Blog: '/blog'
   Archive: '/archive'
   Feed: '/atom.xml'
