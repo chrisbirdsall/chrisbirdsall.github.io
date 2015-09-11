@@ -35,5 +35,3 @@ pages_list:
   Research: '/research'
   Teaching: '/teaching'       
   Blog: '/blog'
-  Archive: '/archive'
-  Feed: '/atom.xml'
