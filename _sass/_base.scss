@@ -17,11 +17,16 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1;
+  line-height: 1.5;
 
   @media (min-width: 38em) {
     font-size: 18px;
   }
+}
+
+div {
+    height: 10px;
+    vertical-align: top;
 }
 
 body {
