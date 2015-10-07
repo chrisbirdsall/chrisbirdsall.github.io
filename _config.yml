@@ -31,7 +31,7 @@ github:
 
 # Pages
 pages_list:
-  Vita: '/Birdsall-Vita.pdf'
+  CV: '/Birdsall-CV.pdf'
   Research: '/research'
   Teaching: '/teaching'       
   Blog: '/blog'
