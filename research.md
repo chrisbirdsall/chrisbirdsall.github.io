@@ -4,7 +4,7 @@ title: Research
 ---
 
 ## Publications ##
-- "The Synthetic Control Method for Comparative Case Studies: An Application Estimating the Effect of Managerial Discretion Under Performance Management." Forthcoming. _International Public Management Journal_
+- ["The Synthetic Control Method for Comparative Case Studies: An Application Estimating the Effect of Managerial Discretion Under Performance Management."](http://www.tandfonline.com/doi/full/10.1080/10967494.2015.1121178) Forthcoming. _International Public Management Journal_
 
 ## Manuscripts in Progress ##
 
