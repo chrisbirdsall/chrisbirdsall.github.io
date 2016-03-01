@@ -7,7 +7,7 @@ title: Research
 - ["The Synthetic Control Method for Comparative Case Studies: An Application Estimating the Effect of Managerial Discretion Under Performance Management."](http://www.tandfonline.com/doi/full/10.1080/10967494.2015.1121178) Forthcoming. _International Public Management Journal_
 
 ## Working Papers ##
-* ["Understanding Policy Adoption and Innovation in the Performance Management Context: The Case of State-Level Performance-Based Funding Policies for Higher Education"](../Performance-Funding_policy-adoption_birdsall.pdf) (Revise and Resubmit at American Review of Public Administration)
+* ["Understanding Policy Adoption and Innovation in the Performance Management Context: The Case of State-Level Performance-Based Funding Policies for Higher Education"](../Performance-Funding_policy-adoption_birdsall.pdf) (Revise and Resubmit at _American Review of Public Administration_)
 
 ## Manuscripts in Progress ##
 * "Performance Funding for Public Higher Education: Unintended Consequences and the Implications of INstitutional Diversity"
