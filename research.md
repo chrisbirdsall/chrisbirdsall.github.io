@@ -15,4 +15,3 @@ title: Research
 * "Performance Funding for Public Higher Education: Unintended Consequences and the Implications of Institutional Diversity"
 * "Managing Diversity in the US Federal Government: Can Diversity Management Practices Mitigate Military Veteran Turnover Intention?", with Matthew Vanderschure.
 * "Branding, Signaling, and Institutional Identity in Public Higher Education", with Alisa Hicklin Fryar, Tom Rabovsky, and Paul Valentine.
-* "Summer Engagement and Student Persistence at a Selective Private University", with Scott Bass, Seth Gershenson, and Ray Zuniga.
