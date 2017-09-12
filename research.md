@@ -9,7 +9,7 @@ title: Research
 ## Working Papers ##
 
 * ["Performance Management in Public Higher Education: 
-Unintended Consequences and the Implications of Organizational Diversity"](../Birdsall - Performance Management in Public Higher Ed.pdf) (Revise and Resubmit at Public Performance and Management Review)
+Unintended Consequences and the Implications of Organizational Diversity"](../Birdsall-Performance_Management_in_Public_Higher_Ed.pdf) (Revise and Resubmit at Public Performance and Management Review)
 
 * ["Stereotype Threat, Role Models, and Demographic Mismatch in an Elite Professional School Setting"](http://ftp.iza.org/dp10459.pdf), with Seth Gershenson and Ray Zuniga. IZA Discussion Paper No. 10459.
 
