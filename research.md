@@ -13,8 +13,6 @@ Unintended Consequences and the Implications of Organizational Diversity"](../Bi
 
 * ["Stereotype Threat, Role Models, and Demographic Mismatch in an Elite Professional School Setting"](http://ftp.iza.org/dp10459.pdf), with Seth Gershenson and Ray Zuniga. IZA Discussion Paper No. 10459.
 
-* ["Understanding Policy Adoption and Innovation in the Performance Management Context: The Case of State-Level Performance-Based Funding Policies for Higher Education"](../Performance-Funding_policy-adoption_birdsall.pdf) 
-
 ## Manuscripts in Progress ##
 * "Managing Diversity in the US Federal Government: Can Diversity Management Practices Mitigate Military Veteran Turnover Intention?", with Matthew Vanderschure.
 * "Branding, Signaling, and Institutional Identity in Public Higher Education", with Alisa Hicklin Fryar, Tom Rabovsky, and Paul Valentine.
